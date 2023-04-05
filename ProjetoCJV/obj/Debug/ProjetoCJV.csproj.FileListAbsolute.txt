@@ -1,0 +1,15 @@
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\bin\Debug\ProjetoCJV.exe.config
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\bin\Debug\ProjetoCJV.exe
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\bin\Debug\ProjetoCJV.pdb
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.csproj.AssemblyReference.cache
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.csproj.SuggestedBindingRedirects.cache
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.Form1.resources
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.Form2.resources
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.Properties.Resources.resources
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.csproj.GenerateResource.cache
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.csproj.CoreCompileInputs.cache
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.exe
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.pdb
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.Form3.resources
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.Form4.resources
+C:\Users\magazine luiza\OneDrive\Área de Trabalho\JV e clayton C#\ProjetoCJV\ProjetoCJV\obj\Debug\ProjetoCJV.Form5.resources
